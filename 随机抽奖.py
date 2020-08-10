@@ -15,4 +15,4 @@ while flag:
         break
 else:
     for i in range(Ind1):
-        print randint(1,Ind2)
+        print randint(1,Ind2)    #呵呵
