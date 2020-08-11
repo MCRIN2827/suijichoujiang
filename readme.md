@@ -24,7 +24,8 @@ else:
     for i in range(Ind1):
         print randint(1,Ind2)    
 ```
-##Usage
+
+## Usage
 
 
 Input the number of people and then input the number of lucky dogs.  
