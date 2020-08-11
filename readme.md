@@ -1,6 +1,10 @@
 # Lucky Draw
+
+
 Lucky Draw is a program for selecting a few lucky dogs from a group of people.
 ## Installation
+
+
 Copy the Python codes.
 ```python
 from random import randint
@@ -21,11 +25,15 @@ else:
         print randint(1,Ind2)    
 ```
 ##Usage
+
+
 Input the number of people and then input the number of lucky dogs.  
 
 
 ![](QQ图片20200811102535.png)
 ## Contributing
+
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
